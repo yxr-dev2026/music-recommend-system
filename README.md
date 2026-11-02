@@ -58,3 +58,6 @@ CREATE TABLE favorite (
   create_time DATETIME DEFAULT CURRENT_TIMESTAMP,
   UNIQUE KEY uk_user_song (user_id, song_id)
 );
+
+## 📎 关联主页
+https://github.com/yxr-dev2026
